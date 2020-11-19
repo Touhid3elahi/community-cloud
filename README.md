@@ -20,7 +20,7 @@ Community Cloud(CC) is an easy-to-use web-based system for a community. Communit
 - export data from event registration (PDF, XLSX)
 
 ## How to install
- - git clone https://github.com/moh4mmad/community-cloud.git
+ - git clone https://github.com/Touhid3elahi/community-cloud.git
  - Create mySQL Database and Database User
  - Open .env and save your database informations
  
