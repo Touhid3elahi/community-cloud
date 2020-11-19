@@ -1,4 +1,4 @@
-## Aboot community cloud
+## About community cloud
 Community Cloud(CC) is an easy-to-use web-based system for a community. Community Cloud manages and provides vital information for the entire community members in one integrated, user-friendly. With CC, we can have many features, such as Minimization of administrative tasks, Reduction of expenditures, Saving valuable time, Sharing the latest, most accurate details to everyone on a community instantly. 
 
 ## Features
